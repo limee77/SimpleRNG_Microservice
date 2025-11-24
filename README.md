@@ -1,8 +1,8 @@
 # SimpleRNG_Microservice
-RNG Microservice that uses ZMQ\
-This microservice generates a random number between 1 and 100000, using ZMQ for client and server transfer.\
+RNG Microservice that uses ZMQ
+This microservice generates a random number between 1 and 100000, using ZMQ for client and server transfer.
 
-To run:\
+To run:
 ```
 python3 -m venv myenv 
 source myenv/bin/activate
